@@ -6,6 +6,7 @@ detailing developer setups, gear, software and configs
 
 - Microsoft Windows 11
   - CPU: Core i9-11900k
+  - Mother Board: ASRock Z590 Pro4 (Another VGA)
   - Memory: Crucial DDR4-3200 16GB (8GB*2)
   - SSD: WD BLUE SN550 500GB (m.2)
   - Case: NZXT H510 White
