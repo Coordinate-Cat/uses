@@ -39,7 +39,7 @@ detailing developer setups, gear, software and configs
 
 ### Headphones & Earphones
 - Audio-Technica Headphones - ATH-SR50BT
-- ~~Shure Earphones SE215 - SE215SPE-A~~ lost :(
+- Shure Earphones SE215 - SE215SPE-A
 
 ## Software
 
