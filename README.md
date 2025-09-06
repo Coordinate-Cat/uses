@@ -14,6 +14,8 @@ detailing developer setups, gear, software and configs
   - Case: DIY Open Frame Computer Case
   - Graphic: Power Color AMD Radeon RX9070XT
 
+<img src="https://github.com/user-attachments/assets/ab69d8a1-70b9-4506-9b18-10d8266b4310" width="400px" />
+
 - Microsoft Windows 10
   - CPU: Intel Core i9-11900k
   - Mother Board: ASRock Z590 Pro4 (Another VGA)
