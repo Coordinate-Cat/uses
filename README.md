@@ -6,13 +6,22 @@ detailing developer setups, gear, software and configs
 
 ### PC
 
-- Microsoft Windows 11
-  - CPU: Core i9-11900k
+- Microsoft Windows 11 Home
+  - CPU: AMD Ryzen 7 9800X3D 8-Core Processor
+  - Mother Board: ASUS TUF GAMING B650-E WIFI
+  - Memory: Crucial DDR5-6000 32GB (16GB*2)
+  - SSD: KIOXIA SSD 1TB NVMe M.2 Type 2280 PCIe Gen 5.0×4
+  - Case: DIY Open Frame Computer Case
+  - Graphic: Power Color AMD Radeon RX9070XT
+
+- Microsoft Windows 10
+  - CPU: Intel Core i9-11900k
   - Mother Board: ASRock Z590 Pro4 (Another VGA)
   - Memory: Crucial DDR4-3200 16GB (8GB*2)
   - SSD: WD BLUE SN550 500GB (m.2)
   - Case: NZXT H510 White
   - Graphic: Geforce RTX3060 12GB
+
 - Apple Macbook Air Sonoma 14.3, Apple M3 24GB 500GB
 - Apple Macbook Air Venture 13.0, Apple M2 24GB 1TB
 
@@ -31,11 +40,12 @@ detailing developer setups, gear, software and configs
 - The UHK 60 v2 (left and right keyboard halves)
 - Lofree Wanderfree Portable Mechanical Keyboard
 
-### Mouse & Touchpad
+### Mouse & Touchpad & Pad Controler
 - Logicool G PRO LIGHTSPEED Wireless Gaming Mouse
 - Sprime PM1 Hyper Lightweight Wireless Ergo Gaming Mouse
 - Corsair SCIMITAR ELITE USB Gaming Mouse
 - SkyPAD Cloud Logo White Model 300mm×350mm (Mousepad)
+- BIGBIG WON Gale Hall (Pad Controler)
 
 ### Headphones & Earphones
 - Audio-Technica Headphones - ATH-SR50BT
@@ -46,15 +56,13 @@ detailing developer setups, gear, software and configs
 ### Browser
 - Chrome Browser
 - Arc Browser
+- Dia Browser
 
 ### Music
 - Spotify
 
 ### Window Manager
 - Rectangle
-
-### Terminal Complement
-- AWS CodeWisperer
 
 ### Chat
 - Discord
@@ -74,8 +82,11 @@ detailing developer setups, gear, software and configs
 ### Streaming
 - OBS Studio
 
-### Chat AI
-- ChatGPT (MacOS App Ver.)
+### AI Tools
+- ChatGPT
+- Claude Code
+- Codex
+- AWS CodeWisperer
 
 ### Prototyping
 - Figma
