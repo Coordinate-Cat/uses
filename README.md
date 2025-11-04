@@ -6,6 +6,8 @@ detailing developer setups, gear, software and configs
 
 ### PC
 
+<img src="https://github.com/user-attachments/assets/33f43641-b428-4a3d-9d23-6147bbd56a9f" width=500 />
+
 - Microsoft Windows 11 Home
   - CPU: AMD Ryzen 7 9800X3D 8-Core Processor
   - Mother Board: ASUS TUF GAMING B650-E WIFI
@@ -13,8 +15,6 @@ detailing developer setups, gear, software and configs
   - SSD: KIOXIA SSD 1TB NVMe M.2 Type 2280 PCIe Gen 5.0×4
   - Case: DIY Open Frame Computer Case
   - Graphic: Power Color AMD Radeon RX9070XT
-
-<img src="https://github.com/user-attachments/assets/ab69d8a1-70b9-4506-9b18-10d8266b4310" width="400px" />
 
 - Microsoft Windows 10
   - CPU: Intel Core i9-11900k
