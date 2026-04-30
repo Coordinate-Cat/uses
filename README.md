@@ -10,7 +10,8 @@ detailing developer setups, gear, software and configs
 
 - Microsoft Windows 11 Home
   - CPU: AMD Ryzen 7 9800X3D 8-Core Processor
-  - Mother Board: ASUS TUF GAMING B650-E WIFI
+  - Mother Board: ASUS TUF GAMING B650-E WIFI (old)
+  - MAG X870 TOMAHAWK WIFI
   - Memory: Crucial DDR5-6000 32GB (16GB*2)
   - SSD: KIOXIA SSD 1TB NVMe M.2 Type 2280 PCIe Gen 5.0×4
   - Case: DIY Open Frame Computer Case
