@@ -2,6 +2,8 @@
 
 detailing developer setups, gear, software and configs
 
+<img width="4032" height="3024" alt="IMG_0863 (1)" src="https://github.com/user-attachments/assets/df5b722e-114f-4049-bf88-4ecdd516a52f" />
+
 ## Hardware
 
 ### PC
